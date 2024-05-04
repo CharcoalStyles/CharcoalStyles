@@ -38,11 +38,11 @@
         {
           "type": "node",
           "style": "powerline",
-          "powerline_symbol": "\ued0d",
+          "powerline_symbol": "",
           "foreground": "#ffffff",
           "background": "#6CA35E",
           "properties": {
-            "prefix": " \uF898 ",
+            "prefix": " \ued0d ",
             "display_version": true
           }
         },
