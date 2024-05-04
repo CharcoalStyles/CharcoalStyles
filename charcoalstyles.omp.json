@@ -38,7 +38,7 @@
         {
           "type": "node",
           "style": "powerline",
-          "powerline_symbol": "",
+          "powerline_symbol": "\ued0d",
           "foreground": "#ffffff",
           "background": "#6CA35E",
           "properties": {
